@@ -1,3 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
 .nav-link:hover {
   color: rgb(235, 192, 52) !important;
 }
@@ -14,7 +24,7 @@
 
 hr {
   border-top: 7px dotted black;
-  color: rgb(167, 196, 164);
-  background-color: rgb(167, 196, 164);
+  color: rgb(226, 247, 224);
+  background-color: rgb(226, 247, 224);
   width: 85%;
 }
