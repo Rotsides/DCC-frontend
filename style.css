@@ -1,0 +1,20 @@
+.nav-link:hover {
+  color: rgb(235, 192, 52) !important;
+}
+#line {
+  border: none;
+  display: block;
+  background-color: rgb(235, 192, 52);
+  width: 100%;
+  border-width: 1px;
+  margin-left: 12px;
+  height: 100px;
+  margin-bottom: 6px;
+}
+
+hr {
+  border-top: 7px dotted black;
+  color: rgb(167, 196, 164);
+  background-color: rgb(167, 196, 164);
+  width: 85%;
+}
